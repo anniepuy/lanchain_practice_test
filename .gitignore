@@ -1,0 +1,14 @@
+# Ignore environment files
+.env
+
+# Ignore Conda environment files
+*.conda
+*.pyc
+__pycache__/
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
+
+# Ignore OS files
+.DS_Store
